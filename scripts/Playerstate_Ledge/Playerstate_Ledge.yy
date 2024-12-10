@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Playerstate_Ledge",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Playerstate_Ledge",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
